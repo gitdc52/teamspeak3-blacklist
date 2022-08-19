@@ -10,7 +10,7 @@ kmavi='\033[1;34m'
 pembe='\033[1;35m'
 #Color Config End#
 clear
-echo -e "        ${yesil}UTOPİA BİLİSİM || BLACKLİST İSLEMİ BASLİYOR...."
+echo -e "        ${yesil}Hey Dostum || BLACKLİST İSLEMİ BASLİYOR...."
 sleep 5
 clear
 sleep 1
